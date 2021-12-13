@@ -15,4 +15,4 @@
 
     git clone https://github.com/willHub99/Chroma-Key.git
 
- - Alterar BACKGROUND_IMAGE  =  'nome.extensão' para realizar testes com outras imagens
+ - Alterar INPUT_IMAGE  =  'nome.extensão' para realizar testes com outras imagens
